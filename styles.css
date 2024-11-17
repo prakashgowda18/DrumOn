@@ -57,6 +57,12 @@ button.pressed {
   box-shadow: 0 3px 4px 0 #DBEDF3;
   opacity: 0.5;
 }
+button{
+  border:0px black solid;
+}
+button:hover{
+  cursor: pointer;
+}
 
 .red {
   color: red;
